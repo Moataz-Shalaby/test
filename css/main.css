@@ -1,0 +1,46 @@
+* {
+    font-family: 'Kalnia', serif;
+
+}
+
+body {
+    background-color: #F4F2E9;
+}
+
+#SinglePage h1 {
+    color: #463020;
+    font-size: 60px;
+    font-weight: 600;
+}
+
+#SinglePage span , h3 {
+    color: #463020;
+    font-size: 50px;
+    font-weight: 200;
+    
+
+}
+
+#SinglePage .btn-custom {
+    background-color: #333D2E;
+    color: #FFFFFF;
+    font-weight: 200;
+    font-size: 40px;
+}
+
+#SinglePage .btn-custom:hover{
+    background-color: #E7B86A;
+    color: #4F4F4D;
+}
+
+#quoteRandom {
+    font-size: 30px;
+    font-weight: 400;
+    color: #463020;
+}
+
+#authorOf {
+    font-size: 20px;
+    font-weight: 400;
+    color: #36261b;
+}
